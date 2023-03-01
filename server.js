@@ -1,6 +1,6 @@
 const jsonServer = require("json-server");
 const server = jsonServer.create();
-const router = jsonServer.router("json_server/weeklyFeature.json");
+const router = jsonServer.router("json_server/characters.json");
 const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 5000;
 
