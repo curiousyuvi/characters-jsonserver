@@ -1,0 +1,16 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Rick Sanchez",
+      "alias": "The Rickest Rick (Rick Prime) The Smartest Man in the Universe (seasons 1-5)",
+      "image_url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.wikia.nocookie.net%2Frickandmorty%2Fimages%2Fa%2Fa6%2FRick_Sanchez.png%2Frevision%2Flatest%3Fcb%3D20160923150728&imgrefurl=https%3A%2F%2Frickandmorty.fandom.com%2Fwiki%2FRick_Sanchez&tbnid=uLhjE6jnWMUqiM&vet=12ahUKEwjUvoT6wLr9AhWh1TgGHTl3DEoQMygBegUIARDfAQ..i&docid=UEW0p7UI1Q6F5M&w=848&h=1080&q=Rick%20Sanchez&ved=2ahUKEwjUvoT6wLr9AhWh1TgGHTl3DEoQMygBegUIARDfAQ"
+    },
+    {
+      "id": 2,
+      "name": "Eren Yeager",
+      "alias": "The Rogue Titan",
+      "image_url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.epicdope.com%2Fwp-content%2Fuploads%2F2020%2F04%2FEren-Yeager.jpeg&imgrefurl=https%3A%2F%2Fwww.epicdope.com%2Fwhy-did-eren-yeager-turn-evil-in-attack-on-titan-is-he-a-villain-or-just-an-anti-hero%2F&tbnid=Rvh7hr5205JRmM&vet=12ahUKEwiX_Mitwbr9AhXcxHMBHXynAZ8QMygFegUIARC0AQ..i&docid=qSs09iCb8DFMdM&w=1280&h=718&q=Eren%20Yeager%20alias&hl=en&ved=2ahUKEwiX_Mitwbr9AhXcxHMBHXynAZ8QMygFegUIARC0AQ"
+    }
+  ]
+}
